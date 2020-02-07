@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/app.dir/activations.cpp.o CMakeFiles/app.dir/main.cpp.o  -o app 

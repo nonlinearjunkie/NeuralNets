@@ -1,0 +1,3 @@
+/home/suraj/Project/Neural_Nets/Activations/Build/CMakeFiles/rebuild_cache.dir
+/home/suraj/Project/Neural_Nets/Activations/Build/CMakeFiles/app.dir
+/home/suraj/Project/Neural_Nets/Activations/Build/CMakeFiles/edit_cache.dir

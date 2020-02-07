@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/suraj/Project/Neural_Nets/Activations/activations.cpp
+activations.hpp
+/home/suraj/Project/Neural_Nets/Activations/activations.hpp
+
+/home/suraj/Project/Neural_Nets/Activations/activations.hpp
+iostream
+-
+vector
+-
+cmath
+-
+time.h
+-
+
+/home/suraj/Project/Neural_Nets/Activations/main.cpp
+iostream
+-
+vector
+-
+time.h
+-
+activations.hpp
+/home/suraj/Project/Neural_Nets/Activations/activations.hpp
+
